@@ -1,3 +1,5 @@
+![](https://github.com/bhupesh-chandrawanshi/bhupesh-chandrawanshi/blob/main/Black%20Technology%20LinkedIn%20Banner.png?raw=true)
+
 Insight obsessed Data Science Explorer, biased towards experimentation and rapid iterations to uncover and solve business problems. Focused on blending descriptive and inferential aspects to deliver quick results for rapid growth. Currently working as a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐈𝐧𝐭𝐞𝐫𝐧 at 𝐅𝐢𝐭𝐭𝐥𝐲𝐟.
 
 When not thinking about problems and business goals, I like to update and upgrade myself with new technologies and skill-set relevant to my field. I'm passionate about analytical philosophy and aspiring to build better data driven applications. In my spare time, I watch soccer and listen to podcasts.
